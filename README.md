@@ -8,6 +8,7 @@ ders1 = https://colab.research.google.com/drive/1hjS7U5Alptpy3b8CvbW68SbVTfDu9hw
 
 
 ders 2= https://colab.research.google.com/drive/1bmFm57oHSCo2u22_LNS4T09REatIbEvc?usp=sharing
+
 ders 3 vb= https://colab.research.google.com/drive/1CyQuDFIYFf__cKFjFTyzVGiwx_GoCWne?usp=sharing
 
 tips HW= https://colab.research.google.com/drive/1qUSF7QKkPca-NJSXbTD3J3lWrpMIrl6q?usp=sharing
