@@ -75,3 +75,5 @@ hf translate= https://colab.research.google.com/drive/1PQsxEQMhdl7fBv7bmf2_GlOTe
 hf object detection= https://colab.research.google.com/drive/1N-8EiXdQpKZK38pe2EYupTVFQjbW4wCD?usp=sharing
 
 hf model kullanimi object detention= https://colab.research.google.com/drive/1CnRleJuMZbZ6bw-M-o_5C9QSGB0YRAav?usp=sharing
+
+eye-ai= https://colab.research.google.com/drive/1nBdZqIVzAaEFBttKL6NO3Cs7EpGMjJGi?usp=sharing
